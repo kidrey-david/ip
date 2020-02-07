@@ -1,0 +1,30 @@
+*{
+    margin-top: 20px;
+    font-size: 20px;
+}
+img{
+    padding: 50px;
+}
+*{
+    background-color: whitesmoke;
+}
+h2 {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+a {
+    background-color: white;
+    margin-right: 50px;
+}
+.intro {
+    font-weight: italic;
+}
+.first {
+    text-align: center;
+}
+
+    
+    
+
