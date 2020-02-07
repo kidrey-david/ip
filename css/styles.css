@@ -1,0 +1,42 @@
+*{
+    margin-top: 20px;
+    font-size: 20px;
+    color: black;
+}
+h2 {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+a {
+    margin-right: 5px;
+}
+.intro {
+    font-weight: italic;
+    text-align: left;
+}
+.me {
+    float: right;
+}
+header {
+    background-color: lightcoral;
+}
+body {
+    background-color: lightsalmon;
+}
+p {
+    text-align: left;
+    margin-left: 50px;
+} 
+.sidebar {
+    text-align: right;
+}
+h3 {
+    text-align: center;
+}
+
+
+    
+    
+
