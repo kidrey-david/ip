@@ -28,6 +28,7 @@ body {
 p {
     text-align: left;
     margin-left: 50px;
+    font-family: sans-serif;
 } 
 .sidebar {
     text-align: right;
@@ -37,8 +38,11 @@ h3 {
 }
 li {
     margin-left: 25px;
+    height: 15px;
 }
-
+em {
+    color: lightblue;
+}
     
     
 
