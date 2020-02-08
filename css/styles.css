@@ -48,5 +48,14 @@ em {
 .logo {
     float: right;
 }    
-    
+#hob {
+    color: darkred;
+    font-style: italic;
+}
+.important {
+    font-style: oblique;
+}
+.game {
+    color: lightcoral;
+}    
 
